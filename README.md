@@ -25,8 +25,8 @@ Please read [Code of Conduct](CODE_OF_CONDUCT.md), before submitting pull reques
   ## Project Status 
 | Feature                   | Status        |
 |-----------------------------|---------------|
-| Graph Model Implementation  | 🚧 Completed  |
-| Dijkstra's Algorithm        | 🚧 Completed  |
+| Graph Model Implementation  | ✅ Completed  |
+| Dijkstra's Algorithm        | ✅ Completed  |
 | Kruskal's Algorithm         | 🚧 In Progress|
 | Prim's Algorithm            | ⏳ Planned    |
 | Interactive UI              | 🚧 In Progress|
